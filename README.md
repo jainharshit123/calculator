@@ -1,11 +1,5 @@
-# Calculator
-This project is from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator). This project was completed before TOP clarified the instructions to only evaluate a single pair of numbers at a time. **If you are doing TOP, do not attempt to re-create this functionality!**
 
-## Code, Re-Factor, Repeat...
-I had to re-factor my work several times as I realized how different functions and variables interacted with each other. I hope to learn more on how to plan and execute a project like this more efficiently. As I am learning, I just took everything one step at time and then re-factor when necessary.
-
-## Regex is AMAZING!
-I really enjoyed working with regular expressions and probably over-used them to format the display numbers. 
+I enjoyed working with regular expressions and probably over-used them to format the display numbers. 
 
 ## Order of Operations
 The calculator is not 100% scientifically accurate. Although, I did use the order of operations published by [Wolfram](http://mathworld.wolfram.com/Precedence.html):
